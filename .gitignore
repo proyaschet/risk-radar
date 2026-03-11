@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/*.jsonl
+data/*.csv
+data/raw/
+*.egg-info/
+.pytest_cache/
+htmlcov/
+.coverage
+feedback.jsonl
+output/
+*.pkl
+.streamlit/
+*.pdf
+tech challenge inputs improved*
